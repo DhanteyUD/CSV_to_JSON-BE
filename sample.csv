@@ -1,0 +1,18 @@
+"User 1 - PIN 1 - StaffID : ID 001"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),"No Clock","No Clock",00:00:00,,
+2,2022-08-05(Fri),08:18:44,19:04:23,10:45:39,,
+Total,,,,0:0:0
+,
+"User 2 - PIN 2 - StaffID : ID 002"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),"No Clock","No Clock",00:00:00,,
+2,2022-08-11(Thu),07:56:21,18:35:25,10:39:04,,
+Total,,,,0:0:0
+,
+"User 3 -- PIN 6 - StaffID : ID 006"
+SN,Date,Clockin,Clockout,Total,"Exemption Status",Reason
+1,2022-07-01(Fri),"No Clock","No Clock",00:00:00,,
+2,2022-07-13(Wed),08:10:02,17:55:32,09:45:30,,
+Total,,,,74:51:5
+,

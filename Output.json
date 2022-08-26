@@ -1,0 +1,44 @@
+{
+    "ID 001": [
+        {
+            "hoursWorked": 0,
+            "minutesWorked": 0,
+            "clockInTime": "No Clock",
+            "clockOutTime": "No Clock"
+        },
+        {
+            "hoursWorked": 10,
+            "minutesWorked": 45,
+            "clockInTime": "08:18:44",
+            "clockOutTime": "19:04:23"
+        }
+    ],
+    "ID 002": [
+        {
+            "hoursWorked": 0,
+            "minutesWorked": 0,
+            "clockInTime": "No Clock",
+            "clockOutTime": "No Clock"
+        },
+        {
+            "hoursWorked": 10,
+            "minutesWorked": 39,
+            "clockInTime": "07:56:21",
+            "clockOutTime": "18:35:25"
+        }
+    ],
+    "ID 006": [
+        {
+            "hoursWorked": 0,
+            "minutesWorked": 0,
+            "clockInTime": "No Clock",
+            "clockOutTime": "No Clock"
+        },
+        {
+            "hoursWorked": 9,
+            "minutesWorked": 45,
+            "clockInTime": "08:10:02",
+            "clockOutTime": "17:55:32"
+        }
+    ]
+}
